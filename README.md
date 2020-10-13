@@ -1,4 +1,4 @@
-# fake-news-classifier-LSTM
+# Fake-News-Classifier-LSTM
 
 # FAKE NEWS:
 
