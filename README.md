@@ -14,6 +14,19 @@ Fake news can have major impacts in shaping world view as we make important deci
 3. Bullying and violence against innocent people
 4. Democratic impacts
 
+# Dataset:
+
+I have used the two fake news dataset from kaggle to train and test the model. In this dataset, we have title and its output, depicting whether the title is fake or not.
+This dataset contains news from 2017 and 2018. 
+
+1. URL: https://www.kaggle.com/c/fake-news/data
+2. URL: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+
 # Project:
 
 In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
+This model takes news headline and provides outcome predicting whether the news is fake or not.
+
+Refer the python notebook (.ipynb) to go through the code.
+
+In my project, I have used NLP techniques and Long-Short Term Memory (LSTM) Neural Network algorithm to preprocess the entry and predict whether news is fake or not. LSTM have proved to be very useful in dealing with such classification as they store previous information to predict outcomes. 
