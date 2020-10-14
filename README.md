@@ -6,6 +6,8 @@ Fake news consists of information has no authenticity. This kind if information 
 
 As technology is advancing people are getting connected more and more socially. The spread of a news in an individual's circle and beyond is matter of seconds. By pressing one share button, and can initiate a thread that can reach many. Although, such negative outcomes were not called for when these technologies came into existense. 
 
+Python Notebook: https://github.com/akarshsrivastava/fake-news-classifier-LSTM/blob/main/fake-news-classifier-LSTM.ipynb
+
 # Impacts
 
 Fake news can have major impacts in shaping world view as we make important decisions based on information. We form opinions regarding many things based on information, if this source is wrong and information is invented, false, exaggerated or distorted, our opinions, decisions are likely to be wrong. To name a few examples:
